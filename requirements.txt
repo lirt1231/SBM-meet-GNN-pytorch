@@ -1,0 +1,6 @@
+wandb
+torch
+scikit-learn
+simple-parsing
+networkx
+scipy
